@@ -13,7 +13,7 @@ To run this project, you need to have Python and the following libraries install
 - numpy
 - matplotlib
 - seaborn
-##Data visualization and interpretation.
+## Data visualization and interpretation.
   - Restaurant type distribution.
   - Total votes by restaurant type.
   - Restaurant with maximum votes.
